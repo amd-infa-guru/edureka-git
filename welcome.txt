@@ -1,3 +1,4 @@
 This is welcome.txt file
 This is a new line from development brnach
 This is a new line from master branch after added development branch changes
+This is a line from feature branch after stashing development branch changes
